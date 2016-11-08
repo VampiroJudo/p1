@@ -505,3 +505,14 @@ fieldset[disabled] .btn-success.active {
   opacity: 0;
   display: none;
 }
+#facephoto {
+   display: block;
+    margin: 0 auto;
+
+    width: 75%;
+    height: auto;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    background-color: red;
+}
